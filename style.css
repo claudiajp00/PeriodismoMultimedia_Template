@@ -83,7 +83,7 @@ p {
 
 .profile-card header h1 {
   /*** color nombre y logotipos ***/
-  color: #fdbbaf;
+  color: #ba3030;
 }
 
 .profile-card header a {
@@ -144,7 +144,7 @@ p {
   font-size: 1.8em;
   line-height: 0px;
   text-align: center;
-  color: #fdbbaf;
+  color: #ba3030;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   -ms-transition: all 0.3s ease-in-out;
